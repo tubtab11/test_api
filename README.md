@@ -1,1 +1,2 @@
-# test_api
+# demo-python-api
+run app command: pipenv run flask run
